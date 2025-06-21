@@ -1,6 +1,10 @@
 ## Horizon Overlay
 
-Core logic:
+Displays a private, detection-free window. 
+
+I guess you could use it for cheating, but please follow honor codes (hacking vs cheating). More so for your privacy and not to block your screen recordings.
+
+Uses our backend for now, but you can substitute in yours.
 
 ## AI Context Manager
 
