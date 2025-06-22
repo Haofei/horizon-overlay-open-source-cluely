@@ -10,7 +10,7 @@ Uses our backend for now, but you can substitute in yours.
 
 ## Feedback / Contributing
 
-Please (reach out to me)[https://x.com/taayjus]
+Please [reach out to me](https://x.com/taayjus)
 
 Looking for people who want to build a solid, great product instead of releasing hundreds of clones.
 
