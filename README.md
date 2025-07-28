@@ -2,7 +2,7 @@
 
 An upbeat AI overlay to empower you. Private, detection-free window. 
 
-For the free direct download: https://www.onhorizon.ai/
+For the free direct download: https://www.onhorizon.ai/ (code HORIZON25)
 
 
 <img width="494" alt="image" src="https://github.com/user-attachments/assets/e8db03f4-9365-449c-a845-e01b9440e42d" />
